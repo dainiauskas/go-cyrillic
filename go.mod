@@ -1,3 +1,3 @@
-module bitbucket.org/butenta/cyrillic
+module github.com/ButentaLT/cyrillic
 
 go 1.16
