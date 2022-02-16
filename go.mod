@@ -1,3 +1,3 @@
-module github.com/ButentaLT/cyrillic
+module github.com/dainiauskas/go-cyrillic
 
 go 1.16

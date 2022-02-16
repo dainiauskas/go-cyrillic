@@ -1,6 +1,6 @@
 package cyrillic
 
-// Konvertavimo lentelė
+// Converting table
 // 185 (¹) - 8470 (№)
 // 196 (Ä) - 1044 (Д)
 // 197 (Å) - 1045 (Е)
@@ -90,7 +90,7 @@ var (
 	}
 )
 
-// ToUTF8 konvertuoja į UTF8
+// ToUTF8 convert to UTF8
 func ToUTF8(v string) string {
 	r := []rune(v)
 
